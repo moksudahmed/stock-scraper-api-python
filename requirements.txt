@@ -2,4 +2,4 @@ Flask
 Gunicorn
 pytz
 Requests
-BeautifulSoup
+bs4
