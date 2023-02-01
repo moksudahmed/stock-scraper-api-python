@@ -1,0 +1,92 @@
+[
+    {
+        "SL": "1",
+        "TRADING_CODE": "SONALIANSH",
+        "CLOSE": "410.1",
+        "HIGH": "418.2",
+        "LOW": "380.8",
+        "YCP": "384.6",
+        "CHANGE": "6.6303"
+    },
+    {
+        "SL": "2",
+        "TRADING_CODE": "EASTRNLUB",
+        "CLOSE": "1,645.3",
+        "HIGH": "1,674.0",
+        "LOW": "1,610.0",
+        "YCP": "1,575.6",
+        "CHANGE": "4.4237"
+    },
+    {
+        "SL": "3",
+        "TRADING_CODE": "POPULARLIF",
+        "CLOSE": "81.5",
+        "HIGH": "84.5",
+        "LOW": "79.4",
+        "YCP": "78.7",
+        "CHANGE": "3.5578"
+    },
+    {
+        "SL": "4",
+        "TRADING_CODE": "OLYMPIC",
+        "CLOSE": "138.0",
+        "HIGH": "141.0",
+        "LOW": "136.0",
+        "YCP": "134.4",
+        "CHANGE": "2.6786"
+    },
+    {
+        "SL": "5",
+        "TRADING_CODE": "ORIONPHARM",
+        "CLOSE": "85.1",
+        "HIGH": "86.4",
+        "LOW": "82.2",
+        "YCP": "82.9",
+        "CHANGE": "2.6538"
+    },
+    {
+        "SL": "6",
+        "TRADING_CODE": "LRBDL",
+        "CLOSE": "36.3",
+        "HIGH": "36.7",
+        "LOW": "35.4",
+        "YCP": "35.4",
+        "CHANGE": "2.5424"
+    },
+    {
+        "SL": "7",
+        "TRADING_CODE": "PRAGATIINS",
+        "CLOSE": "71.9",
+        "HIGH": "72.5",
+        "LOW": "70.0",
+        "YCP": "70.6",
+        "CHANGE": "1.8414"
+    },
+    {
+        "SL": "8",
+        "TRADING_CODE": "ADVENT",
+        "CLOSE": "24.4",
+        "HIGH": "24.6",
+        "LOW": "23.9",
+        "YCP": "24.0",
+        "CHANGE": "1.6667"
+    },
+    {
+        "SL": "9",
+        "TRADING_CODE": "JAMUNAOIL",
+        "CLOSE": "170.0",
+        "HIGH": "174.0",
+        "LOW": "167.3",
+        "YCP": "167.3",
+        "CHANGE": "1.6139"
+    },
+    {
+        "SL": "10",
+        "TRADING_CODE": "EHL",
+        "CLOSE": "108.4",
+        "HIGH": "111.9",
+        "LOW": "106.0",
+        "YCP": "106.7",
+        "CHANGE": "1.5933"
+    }
+]

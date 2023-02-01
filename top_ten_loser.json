@@ -1,0 +1,92 @@
+[
+    {
+        "SL": "1",
+        "TRADING_CODE": "SEAPEARL",
+        "CLOSE": "263.5",
+        "HIGH": "285.0",
+        "LOW": "257.0",
+        "YCP": "280.1",
+        "CHANGE": "-5.9265"
+    },
+    {
+        "SL": "2",
+        "TRADING_CODE": "BPML",
+        "CLOSE": "84.7",
+        "HIGH": "86.4",
+        "LOW": "82.0",
+        "YCP": "88.9",
+        "CHANGE": "-4.7244"
+    },
+    {
+        "SL": "3",
+        "TRADING_CODE": "JHRML",
+        "CLOSE": "79.1",
+        "HIGH": "82.0",
+        "LOW": "74.8",
+        "YCP": "83.0",
+        "CHANGE": "-4.6988"
+    },
+    {
+        "SL": "4",
+        "TRADING_CODE": "METROSPIN",
+        "CLOSE": "42.6",
+        "HIGH": "46.9",
+        "LOW": "42.1",
+        "YCP": "44.3",
+        "CHANGE": "-3.8375"
+    },
+    {
+        "SL": "5",
+        "TRADING_CODE": "SAPORTL",
+        "CLOSE": "31.8",
+        "HIGH": "32.9",
+        "LOW": "31.6",
+        "YCP": "32.9",
+        "CHANGE": "-3.3435"
+    },
+    {
+        "SL": "6",
+        "TRADING_CODE": "GENEXIL",
+        "CLOSE": "100.9",
+        "HIGH": "103.7",
+        "LOW": "98.9",
+        "YCP": "104.0",
+        "CHANGE": "-2.9808"
+    },
+    {
+        "SL": "7",
+        "TRADING_CODE": "ORIONINFU",
+        "CLOSE": "337.9",
+        "HIGH": "359.8",
+        "LOW": "336.0",
+        "YCP": "348.0",
+        "CHANGE": "-2.9023"
+    },
+    {
+        "SL": "8",
+        "TRADING_CODE": "BEACONPHAR",
+        "CLOSE": "308.6",
+        "HIGH": "322.0",
+        "LOW": "302.0",
+        "YCP": "317.8",
+        "CHANGE": "-2.8949"
+    },
+    {
+        "SL": "9",
+        "TRADING_CODE": "BSC",
+        "CLOSE": "123.3",
+        "HIGH": "130.0",
+        "LOW": "122.6",
+        "YCP": "126.6",
+        "CHANGE": "-2.6066"
+    },
+    {
+        "SL": "10",
+        "TRADING_CODE": "AAMRATECH",
+        "CLOSE": "35.3",
+        "HIGH": "36.7",
+        "LOW": "35.2",
+        "YCP": "36.1",
+        "CHANGE": "-2.2161"
+    }
+]
