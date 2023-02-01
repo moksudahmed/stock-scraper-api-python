@@ -3,3 +3,4 @@ Gunicorn
 pytz
 Requests
 bs4
+flask_cors
