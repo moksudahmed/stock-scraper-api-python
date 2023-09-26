@@ -1,92 +1,92 @@
 [
     {
         "SL": "1",
-        "TRADING_CODE": "SEAPEARL",
-        "CLOSE": "263.5",
-        "HIGH": "285.0",
-        "LOW": "257.0",
-        "YCP": "280.1",
-        "CHANGE": "-5.9265"
+        "TRADING_CODE": "BDCOM",
+        "CLOSE": "39.5",
+        "HIGH": "42.0",
+        "LOW": "38.9",
+        "YCP": "41.4",
+        "CHANGE": "-4.5894"
     },
     {
         "SL": "2",
-        "TRADING_CODE": "BPML",
-        "CLOSE": "84.7",
-        "HIGH": "86.4",
-        "LOW": "82.0",
-        "YCP": "88.9",
-        "CHANGE": "-4.7244"
+        "TRADING_CODE": "UNIONINS",
+        "CLOSE": "71.0",
+        "HIGH": "76.7",
+        "LOW": "69.2",
+        "YCP": "74.1",
+        "CHANGE": "-4.1835"
     },
     {
         "SL": "3",
-        "TRADING_CODE": "JHRML",
-        "CLOSE": "79.1",
-        "HIGH": "82.0",
-        "LOW": "74.8",
-        "YCP": "83.0",
-        "CHANGE": "-4.6988"
+        "TRADING_CODE": "AGRANINS",
+        "CLOSE": "43.7",
+        "HIGH": "46.3",
+        "LOW": "43.4",
+        "YCP": "45.4",
+        "CHANGE": "-3.7445"
     },
     {
         "SL": "4",
-        "TRADING_CODE": "METROSPIN",
-        "CLOSE": "42.6",
-        "HIGH": "46.9",
-        "LOW": "42.1",
-        "YCP": "44.3",
-        "CHANGE": "-3.8375"
+        "TRADING_CODE": "FUWANGFOOD",
+        "CLOSE": "30.4",
+        "HIGH": "32.0",
+        "LOW": "30.0",
+        "YCP": "31.3",
+        "CHANGE": "-2.8754"
     },
     {
         "SL": "5",
-        "TRADING_CODE": "SAPORTL",
-        "CLOSE": "31.8",
-        "HIGH": "32.9",
-        "LOW": "31.6",
-        "YCP": "32.9",
-        "CHANGE": "-3.3435"
+        "TRADING_CODE": "ISLAMIINS",
+        "CLOSE": "50.2",
+        "HIGH": "52.5",
+        "LOW": "49.8",
+        "YCP": "51.6",
+        "CHANGE": "-2.7132"
     },
     {
         "SL": "6",
-        "TRADING_CODE": "GENEXIL",
-        "CLOSE": "100.9",
-        "HIGH": "103.7",
-        "LOW": "98.9",
-        "YCP": "104.0",
-        "CHANGE": "-2.9808"
+        "TRADING_CODE": "REPUBLIC",
+        "CLOSE": "52.1",
+        "HIGH": "54.9",
+        "LOW": "51.4",
+        "YCP": "53.5",
+        "CHANGE": "-2.6168"
     },
     {
         "SL": "7",
-        "TRADING_CODE": "ORIONINFU",
-        "CLOSE": "337.9",
-        "HIGH": "359.8",
-        "LOW": "336.0",
-        "YCP": "348.0",
-        "CHANGE": "-2.9023"
+        "TRADING_CODE": "KARNAPHULI",
+        "CLOSE": "41.0",
+        "HIGH": "43.4",
+        "LOW": "40.1",
+        "YCP": "42.1",
+        "CHANGE": "-2.6128"
     },
     {
         "SL": "8",
-        "TRADING_CODE": "BEACONPHAR",
-        "CLOSE": "308.6",
-        "HIGH": "322.0",
-        "LOW": "302.0",
-        "YCP": "317.8",
-        "CHANGE": "-2.8949"
+        "TRADING_CODE": "OIMEX",
+        "CLOSE": "20.0",
+        "HIGH": "20.9",
+        "LOW": "19.8",
+        "YCP": "20.5",
+        "CHANGE": "-2.439"
     },
     {
         "SL": "9",
-        "TRADING_CODE": "BSC",
-        "CLOSE": "123.3",
-        "HIGH": "130.0",
-        "LOW": "122.6",
-        "YCP": "126.6",
-        "CHANGE": "-2.6066"
+        "TRADING_CODE": "EHL",
+        "CLOSE": "95.7",
+        "HIGH": "98.7",
+        "LOW": "95.4",
+        "YCP": "97.9",
+        "CHANGE": "-2.2472"
     },
     {
         "SL": "10",
-        "TRADING_CODE": "AAMRATECH",
-        "CLOSE": "35.3",
-        "HIGH": "36.7",
-        "LOW": "35.2",
-        "YCP": "36.1",
-        "CHANGE": "-2.2161"
+        "TRADING_CODE": "EASTERNINS",
+        "CLOSE": "62.8",
+        "HIGH": "66.6",
+        "LOW": "62.4",
+        "YCP": "64.2",
+        "CHANGE": "-2.1807"
     }
 ]
